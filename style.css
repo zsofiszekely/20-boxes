@@ -1,0 +1,21 @@
+ul{
+    list-style-type: none;
+    padding: 0px;
+  }
+  
+  .container{
+    background: white;
+    width: 400px;
+    height: 150px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    }
+  
+  .item{
+    background: rgba(15, 182, 233, 0.486);
+    width: 50px;
+    height: 50px;
+    margin-left: 5px;
+    }
+  
